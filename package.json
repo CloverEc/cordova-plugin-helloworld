@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-helloworld",
+  "version": "1.0.0",
+  "description": "This is a first plugin !!",
+  "cordova": {
+    "id": "cordova-plugin-helloworld",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloverEc/cordova-plugin-helloworld.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">5.0.0"
+    }
+  ],
+  "author": "",
+  "license": "Sample License",
+  "bugs": {
+    "url": "https://github.com/CloverEc/cordova-plugin-helloworld/issues"
+  },
+  "homepage": "https://github.com/CloverEc/cordova-plugin-helloworld#readme"
+}
